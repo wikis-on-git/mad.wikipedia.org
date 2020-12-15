@@ -1,22 +1,48 @@
-==This subdomain is reserved for the creation of a [[wikimedia:Our projects|Wikipedia]] in the '''[[w:en:Madurese language|Madurese]]''' language==
+<div id="mp_header" class="mp_outerbox" style="border:3px solid #0a100d; margin: 0.5em; overflow: hidden; padding: 0.5em;">
+{| width="100%" 
+| <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Bhengkek:Wikipedia-logo-v2-200px-transparent.png|200px|link=]]</div>
 
-* Please '''do not start editing''' this new site. This site has a test project on the [[incubator:|Wikimedia Incubator]] (or on the [[betawikiversity:|Beta Wikiversity]] or on the [[oldwikisource:|Old Wikisource]]) and it will be imported to here.
-* If you would like to help translating the interface to this language, please do not translate here, but go to [[translatewiki:|translatewiki.net]], a special wiki for translating the interface. That way everyone can use it on every wiki using the [[mw:|same software]].
-* For information about how to edit and for other general help, see [[m:Help:Contents|Help on Wikimedia's Meta-Wiki]] or [[mw:Help:Contents|Help on MediaWiki.org]].
+<center>
+<span style="color:#333333;font-size:180%;">Nyara èyatorè longghu ḍâ'</span><br /><span style="color:#333333;font-size:250%; line-height:100%;">[[Wikipeḍia Bhâsa Madhurâ|Wikipèḍia Madhurâ]]</span><br /><span style="color:#333333;font-size:120%;">Lombhung pangataowan mardhika bhâsa Madhurâ.<br />Satèya bâḍâ {{NUMBEROFARTICLES}} serradhân è Wikipèḍia rèya.</span>
+</center>
+|}
+</div>
+{|style="width:100%;"
+{{Halaman Otama/kop otama
+| border-color=#cc0000
+| title=<span style="color:#555555;">Apa rowa Wikipèḍia?</span>
+}}
+{{Halaman Otama/kop kangan
+| border-color=#cc0000
+| title=<span style="color:#555555;">Maju aghâbây serradhân anyar</span>
+}}
+|-
+{{Halaman Otama/èssè
+| background=#fffbfb
+| content=
+Wikipèḍia rowa proyèk ènsiklopèḍia ''online'' sè universal, multibhâsa, bân aḍhâsaraghi ḍâ' wiki. Proyèk arèya pangarana aberri' kontèn sè bhibhâs èghuna'aghi bâli, objèktif, bân kennèng èbhuktèyaghi bi' rèng-orèng sadhâjâna. Sapa bhâi ollè nolès, meccè', bân mamolbul tèn-kontènna. È ḍinna', bâḍâ atoran ḍhâsar. Tèn-kontènna ngangghuy lèlla ''Creative Commons BY-SA''. Mangkana, tèn-kontènna rowâ kennèng èsalèn bân èghuna'aghi bâli kalabân lèlla sè paḍâ. 
 
-== Sister projects ==
-<span class="plainlinks">
-[//www.wikipedia.org Wikipedia] |
-[//www.wiktionary.org Wiktionary] |
-[//www.wikibooks.org Wikibooks] |
-[//www.wikinews.org Wikinews] |
-[//www.wikiquote.org Wikiquote] |
-[//www.wikisource.org Wikisource] |
-[//www.wikiversity.org Wikiversity] |
-[//www.wikivoyage.org Wikivoyage] |
-[//species.wikimedia.org Wikispecies] |
-[//www.wikidata.org Wikidata] |
-[//commons.wikimedia.org Commons]
-</span>
+Rèng-orèng sè nolès serradhân-serradhân è Wikipèḍia rowa ta' èbâjâr, aliyas paellan kabbhi. Rèng-orèng arèya alako kalabân cara song-osong lombhung areng-bhâreng è ḍâlem pemaoran tanpa bâḍâ sè nyoro. Sapa bhâi ngennèng terkas aghâbây kontèn ''online'', asal atoro' atoran sè èghuna'aghi bi' Yayasan Wikimedia bân pemaoranna. Contona, kontèn kodhu kennèng èbhuktèyaghi bân lajâk bâca, bân nèyap orèng sè nolès kodhu aotama'aghi patang ormat bân anḍhâp asor. 
 
-See Wikimedia's [[m:|Meta-Wiki]] for the coordination of these projects.
+Bâḍâ bânnya' kaca bhântowan sè kennèng abhânto orèng anyar molaè aghâbây, meccè' serradhân, otabâ malebbhuwaghi ghâmbhâr. Ajjhâ' tako' atanya bân mènta tolong, apa polè bâ'na ghi' anyar è situs arèya. Kaca pakanḍhâ'ân kennèng èghuna'aghi ghâbây mabânnya' serradhân.
+}}
+{{Halaman Otama/èssè
+| background=#fffbfb
+| content=
+{{Ghâmbhâr sè èpèlè
+|image   = COLLECTIE TROPENMUSEUM Houten beeld van een wedrenstier TMnr 5990-3a.jpg
+|width   = 350
+|caption = Patung kaju kerrabhân sapè Madhurâ, kèmpo'anna Tropenmuseum
+}}
+<inputbox>
+ type=create
+ width=30
+ prefix=
+ buttonlabel=Ghâbây serradhân anyar
+</inputbox>
+}}
+|-
+|}
+{|style="width:100%; text-align: left;" align="center" cellpadding="1" cellspacing="2"
+|-
+{{User:Bennylin/ID}}
