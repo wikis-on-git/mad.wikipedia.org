@@ -2,9 +2,9 @@
 {| width="100%" 
 | <div style="float: left; width: 0em; height: 0em; margin: -0.5em 0em 0em -2.5em; overflow: visiable;">[[Bhengkek:Wikipedia-logo-v2-200px-transparent.png|200px|link=]]</div>
 
-<center>
+<div class="center">
 <span style="color:#333333;font-size:180%;">Nyara èyatorè longghu ḍâ'</span><br /><span style="color:#333333;font-size:250%; line-height:100%;">[[Wikipeḍia Bhâsa Madhurâ|Wikipèḍia Madhurâ]]</span><br /><span style="color:#333333;font-size:120%;">Lombhung pangataowan mardhika bhâsa Madhurâ.<br />Satèya bâḍâ [[Special:Statistics|{{NUMBEROFARTICLES}}]] serradhân è Wikipèḍia rèya.</span>
-</center>
+</div>
 |}
 </div>
 {|style="width:100%;"
